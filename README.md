@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Roberto
 
-🎓 I'm a Clinical Scientist trainee (2nd Year) in the NHS STP (Clinical Scientific Computing)
-💻 Junior Software Developer with a background in:
+- 🎓 I'm a Clinical Scientist trainee (2nd Year) in the NHS STP (Clinical Scientific Computing)
+- 💻 Junior Software Developer with a background in:
     - MEng Computer Science & Artificial Intelligence 
     - MSc Clinical Science (Clinical Scientific Computing) - *in progress*
 
-🧠 Interested in backend systems, ML workflows, and medical device software to support real-world clinical practice 
-🔬 Passionate about bridging the gap between healthcare and engineering
+- 🧠 Interested in backend systems, ML workflows, and medical device software to support real-world clinical practice 
+- 🔬 Passionate about bridging the gap between healthcare and engineering
 
 ---
 

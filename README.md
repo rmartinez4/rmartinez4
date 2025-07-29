@@ -8,7 +8,6 @@
 - 🧠 Interested in backend systems, ML workflows, and medical device software to support real-world clinical practice 
 - 🔬 Passionate about bridging the gap between healthcare and engineering
 
----
 
 ## ⚙️ Technologies I Use
 
@@ -16,7 +15,6 @@
 - **Software Developer Tools**: Git, Linux, PostgreSQL, MongoDB, Flask, Docker
 - **Clinical Scientist Tools**: Quarto, Jupyter Notebooks, LaTeX, Zotero
 
----
 
 - ## 🧪 Projects (Coming Soon)
 
@@ -26,7 +24,6 @@ I'm currently working on:
 
 Stay tuned! I’ll be sharing these as I sanitise and publish them.
 
----
 
 ## 🌍 About This Profile
 
